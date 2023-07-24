@@ -9,7 +9,7 @@ body {
 }
 
 .header {
-  background-image: url(assets/images/fondo-header-.jpg
+  background-image: url(../images/fondo-header-.jpg);
   background-position: left bottom;
   background-repeat: no-repeat;
   background-attachment: fixed;
